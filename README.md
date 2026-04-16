@@ -27,7 +27,6 @@
 ## Навигация по проекту
 
 - [docs/data_audit.md](docs/data_audit.md) — зафиксированный аудит структуры и качества доступных данных.
-- [plan/current/experiment_plan_detailed.md](plan/current/experiment_plan_detailed.md) — подробный рабочий план эксперимента.
 - [docs/reproducibility_guide.md](docs/reproducibility_guide.md) — подробная инструкция по воспроизводимому запуску `foundation`, `H1-H5` и полного прогона.
 
 ## Воспроизводимый запуск
