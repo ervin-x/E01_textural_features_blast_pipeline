@@ -1,0 +1,4 @@
+{
+  "data_root": "/absolute/path/to/Data/data",
+  "masks_root": "/absolute/path/to/Data/data_masks"
+}

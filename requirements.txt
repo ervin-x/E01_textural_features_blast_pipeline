@@ -1,0 +1,21 @@
+# Core scientific stack
+joblib==1.5.3
+matplotlib==3.10.8
+numpy==2.4.4
+pandas==3.0.2
+Pillow==12.2.0
+pyarrow==23.0.1
+PyWavelets==1.9.0
+scikit-image==0.26.0
+scikit-learn==1.8.0
+scipy==1.17.1
+tqdm==4.67.3
+
+# Deep baselines
+torch==2.11.0
+torchvision==0.26.0
+
+# Optional:
+# xgboost is not required for the current full run because the code
+# automatically falls back to HistGradientBoostingClassifier when xgboost
+# is unavailable or cannot be imported.

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Local environments and caches
+.venv/
+.uv-cache/
+vendor/
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+
+# Local dataset path configuration
+configs/datasets/local_paths.json
+configs/datasets/*.local.json
+data_access/shared_data
+
+# Generated experiment outputs
+outputs/
+
+# Generated report exports
+reports/*.html
+reports/*.pdf
+reports/*.docx
+
+# Notebook checkpoints
+.ipynb_checkpoints/
